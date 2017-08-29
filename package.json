@@ -1,0 +1,22 @@
+{
+  "name": "vopm",
+  "version": "1.0.0",
+  "description": "Voice control for npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cu7ious/alexa-npm-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cu7ious/alexa-npm-tool/issues"
+  },
+  "homepage": "https://github.com/Cu7ious/alexa-npm-tool#readme"
+}

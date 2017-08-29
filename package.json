@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Cu7ious/alexa-npm-tool/issues"
   },
-  "homepage": "https://github.com/Cu7ious/alexa-npm-tool#readme"
+  "homepage": "https://github.com/Cu7ious/alexa-npm-tool#readme",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
 }

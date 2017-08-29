@@ -5,22 +5,25 @@
 
 ### Vopm general options
 1. Available Options:
-  * list
+    - list
 2. Working Directory:
-  * set
-  * current
-  * change???
+    - set
+    - current
+    - change???
 
 ### npm specific options
 1. Local:
-  * init
-  * ls
-  * install
+    - docs
+    - init
+    - ls
+    - install
 2. Publishing:
-  * {SOON}
+    - {SOON}
 3. Deployment:
-  * {SOON}
+    - {SOON}
 
 ## Examples:
+```
 [Wake word], ask Vopm what options it has
 [Wake word], ask Vopm to set working directory
+```
